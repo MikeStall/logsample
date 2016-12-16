@@ -1,0 +1,6 @@
+packages
+bin
+obj
+debug
+*.suo
+*.user
